@@ -1,0 +1,178 @@
+
+body{
+background-color: #0e1b3d;
+}
+
+.bg-container{
+  width: 1440px;
+  position:absolute;
+  top: 300px;
+  left: 0;
+  background-color: #0C122C;
+}
+
+.bg-graphic{
+  width: 1900px;
+  height: auto;
+  position: absolute;
+  top: 250px;
+}
+
+.left-container{
+  width: 350px;
+  height: 210px;
+  background-color: #1e2c69;
+  border-radius: 10px 120px 10px 10px;
+  position: absolute;
+  top: 450px;
+  left: 390px;
+}
+
+.right-container{
+  width: 600px;
+  height: 150px;
+  background-color: #1e2c69;
+  border-radius: 10px 10px 10px 10px;
+  position: absolute;
+  top: 510px;
+  left: 780px;
+}
+
+.text{
+  font-family: sans-serif;
+  color: white;
+  position: absolute;
+  top: 530px;
+  left:820px;
+  font-size: .75rem;
+}
+
+.gb{
+  font-family: sans-serif;
+  color: white;
+  position: absolute;
+  top:610px;
+  left:820px;
+  font-size: .75rem;
+}
+
+.gb2{
+  font-family: sans-serif;
+  color: white;
+  position: absolute;
+  top: 610px;
+  left:1300px;
+  font-size: .75rem;
+}
+
+.gbleftover{
+  width: 150px;
+  height: 60px;
+  background-color: white;
+  border-radius: 12px 12px 0 12px;
+  position: absolute;
+  top: 470px;
+  left:1195px;
+}
+
+.oneeightfive{
+  font-family: sans-serif;
+  color: black;
+  position: relative;
+  top: 438px;
+  left:1205px;
+  font-size: 2.5rem;
+}
+
+.gbleft{
+  font-family: sans-serif;
+  color: grey;
+  position: relative;
+  top:370px;
+  left:1280px;
+  font-size: .25rem;
+}
+
+.fylo{
+  position: relative;
+  top: 360px;
+  left: 415px;
+}
+
+.doc{
+  background-color: #0C122C;
+  height: 43px;
+  width: 43px;
+  border-radius: 5px 5px 5px 5px;
+  position: relative;
+  top: 390px;
+  left: 410px;
+}
+
+.docicon{
+  position: absolute;
+  top: 9px;
+  left: 12px;
+}
+
+.folder{
+  background-color: #0C122C;
+  height: 43px;
+  width: 43px;
+  border-radius: 5px 5px 5px 5px;
+  position: absolute;
+  top: 574px;
+  left: 475px;
+}
+
+.foldericon{
+  position: absolute;
+  top: 12px;
+  left: 9px;
+}
+
+.cloudupload{
+  background-color: #0C122C;
+  height: 43px;
+  width: 43px;
+  border-radius: 5px 5px 5px 5px;
+  position: absolute;
+  top: 574px;
+  left: 535px;
+}
+
+.cloudicon{
+  position: absolute;
+  top: 12px;
+  left: 9px;
+}
+
+.bar{
+  background-color: #0C122C;
+  height: 15px;
+  width: 530px;
+  border-radius: 15px;
+  position: absolute;
+  top: 580px;
+  left: 820px;
+}
+
+.bar2{
+  background: linear-gradient(to right, #fea096,#fa4c91);
+  height: 10px;
+  width: 400px;
+  border-radius: 15px;
+  position: absolute;
+  top: 582px;
+  left: 823px;
+}
+
+.bar3{
+  background-color: white;
+  height: 10px;
+  width: 10px;
+  border-radius: 15px;
+  position: absolute;
+  top: 582px;
+  left: 1213px;
+}
